@@ -1,17 +1,24 @@
-# Математичні формули Markdown
+
+$$\sqrt{2}\approx 1.4$$
+
+$$\oint_{C} x^3\, dx + 4y^2\, dy$$
+$$\int_0^1 \frac{1}{\sqrt{-\ln x}} \,dx\,$$
+
 $$\sum_{i=1}^{100} h_i = \sum_{j=1}^{100} w_j \stackrel{\text{def}}{=} d$$
 
-$$\int_{-N}^{N} e^x\, dx$$
+$$f(n) = \begin{cases} n/2, & \mbox{if }n\mbox{ is even} \\ 3n+1, & \mbox{if }n\mbox{ is odd} \end{cases}$$
 
-$$
-\left(\begin{array}{cc} 
+$$\left(3-x\right) \times \left( \frac{2}{3-x} \right) = \left(3-x\right) \times \left( \frac{3}{2-x} \right)$$
+
+$$|\bar{z}| = |z|, \quad |(\bar{z})^n| = |z|^n, \quad \operatorname{arg} z^n = n\operatorname{arg} z\,$$
+
+$$\left(\begin{array}{cc}
 0.8944272 & 0.4472136\\
 -0.4472136 & -0.8944272
 \end{array}\right)
-\left(\begin{array}{cc} 
-10 & 0\\ 
+\left(\begin{array}{cc}
+10 & 0\\
 0 & 5
-\end{array}\right)
-$$ 
+\end{array}\right)$$
 
 
