@@ -6,7 +6,7 @@ $$\int_0^1 \frac{1}{\sqrt{-\ln x}} \,dx\,$$
 
 $$\sum_{i=1}^{100} h_i = \sum_{j=1}^{100} w_j \stackrel{\text{def}}{=} d$$
 
-$$ f(n) = \left(\begin{case}{cc} n/2, & \mbox{if }n \\ 3n+1, & \mbox{if }n \end{case}\right)$$
+$$ f(n) = \left(\begin{cases}{cc} n/2, & \mbox{if }n \\ 3n+1, & \mbox{if }n \end{cases}\right)$$
 
 $$\left(3-x\right) \times \left( \frac{2}{3-x} \right) = \left(3-x\right) \times \left( \frac{3}{2-x} \right)$$
 
