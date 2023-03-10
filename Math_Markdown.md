@@ -1,6 +1,6 @@
 # Математичні формули Markdown
-$$\sum_{i=1}^{100} h_i = \sum_{j=1}^{100} w_j \stackrel{\text{def}}{=} d$$
-$$\int_{-N}^{N} e^x\, dx$$
+$\sum_{i=1}^{100} h_i = \sum_{j=1}^{100} w_j \stackrel{\text{def}}{=} d$
+$\int_{-N}^{N} e^x\, dx$
 $$
 \left(\begin{array}{cc} 
 0.8944272 & 0.4472136\\
