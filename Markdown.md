@@ -36,4 +36,6 @@
 |**2**             | 2 | 4 | 6 | 8 |
 |**3**             | 3 | 6 | 9 | 12 |
 |**4**             | 4 | 8 | 12 | 16 |
+
+$$E = \frac{1}{4\pi\epsilon_{0}}\cdot\frac{4q}{a^2} = \frac{1}{4\pi\cdot 8.85 \times 10^{-12} \mathrm{F/m}}\cdot\frac{4 \cdot 2 \times 10^{-5} \mathrm{C}}{(0.4 \mathrm{m})^2} \approx 18091 \mathrm{N/C}$$
 $$E_{total} = \sqrt{2} E \approx 25664 \mathrm{N/C}$$
